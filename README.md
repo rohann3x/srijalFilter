@@ -54,7 +54,7 @@ You can deploy this bot anywhere.
 
 <i>**[Watch Deploying Tutorial...](https://youtu.be/1G1XwEOnxxo)**</i>
 
-<details><summary>Deploy To Heroku</summary>
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/rohann3x/srijalFilter)
 <p>
 <br>
 <a href="https://github.com/rohann3x/srijalFilter">

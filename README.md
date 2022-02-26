@@ -57,8 +57,7 @@ You can deploy this bot anywhere.
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/rohann3x/srijalFilter)
 <p>
 <br>
-<a href="https://github.com/rohann3x/srijalFilter">
-  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+  <img src="https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/rohann3x/srijalFilter)
 </a>
 </p>
 </details>
